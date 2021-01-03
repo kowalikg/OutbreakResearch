@@ -3,7 +3,7 @@ import subprocess
 
 import utils
 
-print("Epidemic data generator 2020")
+print("Outbreak 2021")
 # write numbers here
 employees = [100]
 # write numbers here
@@ -21,7 +21,7 @@ generator_path = "OutbreakDataGenerator.jar"
 calculator_path = "OutbreakCalculator.jar"
 
 # write here path to database properties
-properties_path = "C:\\Users\\Gabriela\\PycharmProjects\\test\\databases.properties"
+properties_path = "databases.properties"
 
 # data generation
 
